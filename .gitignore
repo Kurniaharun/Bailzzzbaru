@@ -1,0 +1,8 @@
+node_modules/
+baileys_auth_info/
+auth/
+.env
+.env.*
+!.env.example
+wa-logs.txt
+*.log
